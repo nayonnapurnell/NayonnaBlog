@@ -1,0 +1,8 @@
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\bin\Debug\netcoreapp3.1\NayonnaBlog.Service.deps.json
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\bin\Debug\netcoreapp3.1\NayonnaBlog.Service.dll
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\bin\Debug\netcoreapp3.1\NayonnaBlog.Service.pdb
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\obj\Debug\netcoreapp3.1\NayonnaBlog.Service.csprojAssemblyReference.cache
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\obj\Debug\netcoreapp3.1\NayonnaBlog.Service.AssemblyInfoInputs.cache
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\obj\Debug\netcoreapp3.1\NayonnaBlog.Service.AssemblyInfo.cs
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\obj\Debug\netcoreapp3.1\NayonnaBlog.Service.dll
+C:\Users\NPurnell\source\repos\NayonnaBlog\NayonnaBlog.Service\obj\Debug\netcoreapp3.1\NayonnaBlog.Service.pdb
