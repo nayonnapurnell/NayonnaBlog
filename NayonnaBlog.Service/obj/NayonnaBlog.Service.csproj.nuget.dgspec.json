@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NPurnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj": {}
+    "C:\\Users\\Nayonna Purnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NPurnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj": {
+    "C:\\Users\\Nayonna Purnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NPurnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Nayonna Purnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj",
         "projectName": "NayonnaBlog.Service",
-        "projectPath": "C:\\Users\\NPurnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj",
-        "packagesPath": "C:\\Users\\NPurnell\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NPurnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\obj\\",
+        "projectPath": "C:\\Users\\Nayonna Purnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\NayonnaBlog.Service.csproj",
+        "packagesPath": "C:\\Users\\Nayonna Purnell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nayonna Purnell\\source\\repos\\NayonnaBlog\\NayonnaBlog.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\NPurnell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nayonna Purnell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

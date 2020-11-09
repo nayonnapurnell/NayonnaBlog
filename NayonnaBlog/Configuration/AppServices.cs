@@ -3,11 +3,10 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using NayonnaBlog.Data;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using NayonnaBlog.Data.Models;
+
+
+
 
 namespace NayonnaBlog.Configuration
 {
@@ -18,7 +17,7 @@ namespace NayonnaBlog.Configuration
             serviceCollection.AddDbContext<ApplicationDbContext>(options =>
                           options.UseSqlServer(
                               configuration.GetConnectionString("DefaultConnection")));
-            serviceCollection.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
+            serviceCollection.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true)
                 .AddEntityFrameworkStores<ApplicationDbContext>();
             serviceCollection.AddControllersWithViews().AddRazorRuntimeCompilation();
             serviceCollection.AddRazorPages();
